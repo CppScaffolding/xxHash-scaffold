@@ -1,0 +1,4 @@
+## .gitignore file for xxHash-scaffold
+
+## ignore folder fetched through gclient
+xxHash
